@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazi Mohammad Shahed</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<img align='right' width='400' src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-hed&label=Profile%20views&color=0e75b6&style=flat" alt="sha-hed" /> </p>
 
@@ -9,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kazimdshahed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kazimdshahed/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kazi.m.shahed.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kazi.m.shahed.3/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kazimd.shahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kazimd.shahed/?hl=en" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kazimd.shahed/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kazimd.shahed/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
