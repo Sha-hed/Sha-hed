@@ -1,7 +1,12 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif">
 <h1 align="center">Hi 👋, I'm Kazi Mohammad Shahed</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-hed&label=Profile%20views&color=0e75b6&style=flat" alt="sha-hed" /> </p>
+<h3 align="center">A passionate Frontend Developer</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-hed&label=Profile%20views&color=0e75b6&style=flat" alt="sha-hed" /> </p> -->
+## :chart_with_upwards_trend: Current Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Sha-hed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sha-hed" alt="sha-hed" /></a> </p>
 
