@@ -1,7 +1,6 @@
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif">
 <h1 align="center">Hi 👋, I'm Kazi Mohammad Shahed</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<img align='right' width='400' src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-hed&label=Profile%20views&color=0e75b6&style=flat" alt="sha-hed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sha-hed" alt="sha-hed" /></a> </p>
